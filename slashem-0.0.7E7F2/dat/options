@@ -1,0 +1,22 @@
+
+    SlashEM version 0.0.7E7F2
+
+Options compiled into this edition:
+
+    blackmarket level, color, data file compression, data librarian,
+    debug mode, Elbereth, experience points on status line,
+    insurance files for recovering from crashes, light sourced spell effects,
+    invisible objects, Keystone Kops, log file, news file, redo command,
+    saddles and riding, display layers, screen clipping, seduction,
+    shell command, show damage amounts, show weight of inventory, sinks,
+    suspend command, terminal info library, timed wait for display effects,
+    lightsabers and dim lightsabers, Houchou, firearms, tourists,
+    walled mazes, yeomen,
+    save and bones files accepted from versions 0.0.7E2 through 0.0.7E7,
+    basic NetHack features.
+
+Supported windowing systems:
+
+    traditional tty-based graphics, GTK,
+    with a default of gtk.
+

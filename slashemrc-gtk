@@ -1,0 +1,5 @@
+OPTIONS=showexp,showrace,showweight
+OPTIONS=noautopickup,autodig
+OPTION=hilite_pet,!cmdassist
+TILES=name:Big tiles,file:x11bigtiles,transparent
+OPTIONS=tiles:Big tiles
