@@ -41,8 +41,7 @@ If you are not working in a secure environment, you are on your own to secure it
 - The GUI seems to be working fine aside from the transparency issue,
 but I notice a lot of nonfatal errors being thrown
 in the terminal window that launched slashem.
-I'm not sure what's up with that.
-I'd welcome pull requests to resolve that, too.
+But then I see that happens in the binary distribution, too.
 
 ## Author
 
